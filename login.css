@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@1,600&display=swap');
+
+input{
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+body{
+    font-family: "EB+Garamond:ital", sans-serif;
+}
